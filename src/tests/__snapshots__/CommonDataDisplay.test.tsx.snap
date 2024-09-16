@@ -1,0 +1,15 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CommonDataDisplay > should display the correct data 1`] = `
+<h6>
+  Time: 
+  2023-08-01T01:38Z
+</h6>
+`;
+
+exports[`CommonDataDisplay > should display the correct data 2`] = `
+<h3>
+  Instruments: 
+  GOES-P: EXIS 1.0-8.0
+</h3>
+`;
