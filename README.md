@@ -25,7 +25,7 @@ In this project the components have been tested with component testing, but sinc
 
 In future development of this project it is natural to implement E2E testing to get a better understanding of how the users will interact with the website
 
-## Choise of datasett
+## Choice of dataset
 
 We were aware that NASA offers many public APIs suitable for our project, and the group thought it would be interesting to work with NASA data.
-However, it became evident that working with this API was challenging due to the complexity of the data. Additionally, it became clear that user engagment became low with this datasett.
+However, it became evident that working with this API was challenging due to the complexity of the data. Additionally, it became clear that user engagment became low with this dataset.
